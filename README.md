@@ -36,15 +36,15 @@ MeetSphere enables smooth real-time peer-to-peer video/audio communication direc
 4. The backend manages authentication, room creation, and relaying messages before the P2P connection is established.  
 
 ---
+## 📝 Note  
+This app is **live** and fully functional.  
+You can **download the code and use it directly**, but **do not make any changes** — everything is already set up and deployed successfully.
+
+
 
 ## 📸 Demo Screenshots  
 (Add screenshots of your app UI here for better presentation)  
 
 ---
 
-## 🔧 Installation & Setup  
 
-### 1. Clone the repository  
-```bash
-git clone https://github.com/your-repo-link.git
-cd MeetSphere
