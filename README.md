@@ -42,8 +42,7 @@ You can **download the code and use it directly**, but **do not make any changes
 
 
 
-## 📸 Demo Screenshots  
-(Add screenshots of your app UI here for better presentation)  
+
 
 ---
 
